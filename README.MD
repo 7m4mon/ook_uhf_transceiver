@@ -27,4 +27,8 @@
 ![](https://github.com/7m4mon/ook_uhf_transceiver/blob/main/pic_inside.jpg)
 
 
+## Circuits
+![](https://github.com/7m4mon/ook_uhf_transceiver/blob/main/ook_uhf_transceiver_circuit.png)
+
+
 
