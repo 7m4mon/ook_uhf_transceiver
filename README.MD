@@ -22,7 +22,7 @@
 
 ## Photo
 
-![](https://github.com/7m4mon/ook_uhf_transceiver/blob/main/pic_outside.jpg)
+![](https://github.com/7m4mon/ook_uhf_transceiver/blob/main/pic_outside_s.jpg)
 
 ![](https://github.com/7m4mon/ook_uhf_transceiver/blob/main/pic_inside.jpg)
 
