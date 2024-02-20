@@ -36,4 +36,7 @@
 
 ![](https://github.com/7m4mon/ook_uhf_transceiver/blob/main/hamfair2023_jaia_ppt_1.PNG)
 
+[![](https://img.youtube.com/vi/zUl_OiuFRsQ/0.jpg)](https://www.youtube.com/watch?v=zUl_OiuFRsQ)
+
+
 信号処理については、トランジスタ技術2023年[8月号](https://toragi.cqpub.co.jp/magazine/202308/) [9月号](https://toragi.cqpub.co.jp/magazine/202309/)のRF コーナーもご参照ください。
